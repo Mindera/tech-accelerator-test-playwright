@@ -1,0 +1,23 @@
+{
+  "name": "add-project-name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:ct": "playwright test -g @dummy",
+    "test:ui": "playwright test --ui",
+    "test:report": "allure generate --single-file ./allure-results --clean"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.39.0",
+    "@types/node": "^20.8.6",
+    "allure-commandline": "^2.24.1",
+    "allure-playwright": "^2.9.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
