@@ -52,7 +52,7 @@ npx playwright test --project chromium --headed
 ```
 
 ### Debug 
-Opens a browser window and a debug dialog. Allows you to step though the tests code line by line and debug what heach line is doing or not doing if the test fails. [See more information on this here](https://playwright.dev/docs/test-ui-mode)
+Opens a browser window and a debug dialog. Allows you to step though the tests code line by line and debug what heach line is doing or not doing if the test fails. [See more information on this here](https://playwright.dev/docs/debug#playwright-inspector)
 ```
 npx playwright test --project chromium --debug
 ```
