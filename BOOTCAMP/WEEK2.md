@@ -50,10 +50,10 @@ First we have the import section:
 This is where we import functionality from other files and modules (code libraries). Lets take a look at the first import statement and break it down a little:
 
 | import          | { test }        | from '@playwright/test';                  |
-| :---            | :----           | :---                                      |
+| :-------------- | :-------------- | :---------------------------------------- |
 | Lets import the | 'test' function | from the @playwright module's test folder |
 
-You can import more than one piece of functionality (function) at a time by seperating them by commas. For example:
+You can import more than one piece of functionality (function) at a time by separating them by commas. For example:
 
 ```
 1   import { test, expect } from '@playwright/test';

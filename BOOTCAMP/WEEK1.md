@@ -31,7 +31,7 @@ In the [**README.md**](https://github.com/Mindera/tech-accelerator-test-playwrig
 ## Lets Look At What Locators Are
 Locators are used to get access to different elements on your website, such as text and buttons.  Once you've got a locator, you can do things like enter text, click and perform tests upon the elements. 
 
-First you need to understand how to inspect elements in your browser, so that you can dig into the code and find test-data id's and identify which kind of locator you're going to need to access the elemets on the website. [This guide explains really well how to inspect elements within your website](https://blog.hubspot.com/website/how-to-inspect).
+First you need to understand how to inspect elements in your browser, so that you can dig into the code and find test-data id's and identify which kind of locator you're going to need to access the elements on the website. [This guide explains really well how to inspect elements within your website](https://blog.hubspot.com/website/how-to-inspect).
 
 Playwright's own documentation has a [great guide on locators](https://playwright.dev/docs/locators), read through this and familiarise yourself with how they work. The main one you'll use at first is **getByTestId()**.
 
@@ -39,6 +39,6 @@ Playwright's own documentation has a [great guide on locators](https://playwrigh
 
 Well done for following through all the step above. I hope you've enjoyed setting up the project and running your first playwright test. 
 
-The fun bit starts now, starting to learn how to write tests and learning the basics of the Javascript and Typescript programming languages. 
+The fun bit starts now, starting to learn how to write tests and learning the basics of the Javascript and Typescript programming languages.
 
-If you're wanting to dive a little deeper at this point and get a headstart on next weeks lessons, watch this [Playwright Tutorial Crash Course](https://www.youtube.com/watch?v=Ov9e_F8I5zc) by Dilpreet Johal. It'll give you a good overview of Playwright and programming elements. Don't worry if you don't understand everything, we'll be going throught them in more detail in the following weeks.
+If you're wanting to dive a little deeper at this point and get a headstart on next weeks lessons, watch this [Playwright Tutorial Crash Course](https://www.youtube.com/watch?v=Ov9e_F8I5zc) by Dilpreet Johal. It'll give you a good overview of Playwright and programming elements. Don't worry if you don't understand everything, we'll be going through them in more detail in the following weeks.

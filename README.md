@@ -1,10 +1,10 @@
 # Mindera Tech Accelerator for Playwright
 
-This Git repository is a tech accelerator which can be used as a starting point when using Playwright to write automation tests.  It's pre-configured and you can be up and running, witing tests within a matter of minutes, instead of doing hours of repetitive config and setup.
+This Git repository is a tech accelerator which can be used as a starting point when using Playwright to write automation tests.  It's pre-configured and you can be up and running, writing tests within a matter of minutes, instead of doing hours of repetitive config and setup.
 
 ## STEP 1: Download the repository
 
-> WARNING: **DO NOT** *Clone* or *Fork* this repository. You will use the code in this repository to create your own repository later on in your own GitHubit account, so just download it for now. 
+> WARNING: **DO NOT** *Clone* or *Fork* this repository. You will use the code in this repository to create your own repository later on in your own GitHub account, so just download it for now. 
 
 1. On the [repository page](https://github.com/Mindera/tech-accelerator-test-playwright), click the green **Code** button.
 
@@ -33,7 +33,7 @@ npx playwright install
 
 ## STEP 4: Run tests test
 
-This project has been setup to test the [Swag Labs demo website](https://www.saucedemo.com/) created by Sauce Labs. It's a handy little shooping cart website which has multiple test users and allows you to try out different automation testing techniques
+This project has been setup to test the [Swag Labs demo website](https://www.saucedemo.com/) created by Sauce Labs. It's a handy little shopping cart website which has multiple test users and allows you to try out different automation testing techniques
 
 There's a number of ways that you can run the test suite.  
 
